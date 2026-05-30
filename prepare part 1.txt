@@ -1,0 +1,26 @@
+Preparation angular class:
+
+1.angular cli: create project, component, pipe, directive, serve and etc,
+2.components explain what is components like that why its important  
+3.create main component and explain this (@decorator component)
+4.call main component
+5.explain class structures and private public props angular imports like that
+6.explain public private default public
+7.fill the code counter functions, html and css
+
+
+8.explain about components data passing 
+input and output
+
+9 directive 
+    structural 
+    attribute
+
+10 angular material intro
+11 mat icon
+12 mat snackbar for it was succeed like
+13 google dev tool like preview style edit 
+
+finish counter app project 1
+
+
